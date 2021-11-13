@@ -1,0 +1,31 @@
+body
+{
+	background-color: rosybrown;
+
+}
+
+button
+{
+	font-size: 20px;
+}
+
+button:hover
+{
+	background-color: rgb(255, 200, 200);
+}
+
+.top
+{
+	margin-bottom: 1%;
+}
+
+.info
+{
+	display: inline-flex;
+	margin: 0 3px 0 3px;
+	font-size: 30px;
+
+}
+
+
+
