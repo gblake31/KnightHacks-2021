@@ -1,4 +1,5 @@
-# KnightHacks-2021 Blake and Vincent
+# KnightHacks-2021
+# Blake Gassman and Vincent Verapen
 
 Ideas for the Weekend
 
