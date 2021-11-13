@@ -1,4 +1,4 @@
-# KnightHacks-2021
+# KnightHacks-2021 Blake and Vincent
 
 Ideas for the Weekend
 
